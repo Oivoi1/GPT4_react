@@ -120,4 +120,12 @@
     .gpt4__navbar-sign{
         display: none;
     }
+
+    .gpt4__navbar-menu_container{
+        top: 20px;
+    }
+
+    .gpt4__navbar-menu_container-links-sign{
+        display: block;
+    }
 }
